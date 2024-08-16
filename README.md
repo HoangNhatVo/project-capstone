@@ -1,6 +1,6 @@
-# Little lemon restaurant online rservation system
+# My project capstone
 
 ## Description
-My project capstone
+Reservation system
 
 # project-capstone
